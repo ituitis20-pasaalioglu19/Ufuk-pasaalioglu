@@ -1,0 +1,36 @@
+body{
+	background-image:url("Img/Bgg.jpg");
+	margin: 0px; 
+	margin-top:-18px;
+ }
+#TopBanner {
+	background-color:rgba(32,35,0,0.2);
+	color:white;
+	padding:10px;
+  }
+.Headdings {
+	border: 5px solid DodgerBlue;
+	border-collapse: collapse;
+	text-align:center;
+}
+
+a:link {
+	color:purple;
+	background-colo:transparent;
+	text-decoration:none;
+}
+a:visited {
+	color:purple;
+	background-colo:transparent;
+	text-decoration:none;
+}
+a:hover {
+	color:red;
+	background-color: transparent;
+	text-decoration:underline;
+}
+a:active {
+	color:yellow;
+	background-color: transparent;
+	text-decoration:underline;
+}
